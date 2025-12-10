@@ -6,9 +6,9 @@
   <script>
     function randomRedirect() {
       if (Math.random() < 0.5) {
-        window.location.href = "https://albertinum-coburg.de/lehrkraefte/";
+        window.location.href = "https://www.soscisurvey.de/incolourornotdrei/?act=aCXyIEUi927K8fVXRNFgzJwS";
       } else {
-        window.location.href = "https://www.casimirianum.de";
+        window.location.href = "https://www.soscisurvey.de/incolourornot/?act=H4pzdEWqQ14CXF8CynnWrzNp";
       }
     }
     window.onload = randomRedirect;
